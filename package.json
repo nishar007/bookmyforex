@@ -1,0 +1,40 @@
+{
+  "name": "bookmyforex",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "serve": "vite serve"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0",
+    "sass": "^1.69.0"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "jquery": "^3.5.1",
+    "@popperjs/core": "^2.11.8",
+    "font-awesome": "^4.7.0"
+  },
+  "description": "This is the official website for BookMyForex, a leading foreign exchange service provider.",
+  "main": "src/js/script.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nishar007/bookmyforex.git"
+  },
+  "keywords": [
+    "forex",
+    "currency exchange",
+    "money transfer",
+    "travel card"
+  ],
+  "author": "BookMyForex",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nishar007/bookmyforex/issues"
+  },
+  "homepage": "https://github.com/nishar007/bookmyforex#readme"
+}
