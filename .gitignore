@@ -17,9 +17,7 @@ Thumbs.db
 node_modules/
 package-lock.json
 
-# Source files (non-minified)
-src/
-source/
+
 # Keep the minified files
 !*.min.*
 
@@ -74,11 +72,6 @@ dist-ssr
 *.sln
 *.sw?
 
-# Source files (non-minified)
-src/**/*.js
-!src/**/*.min.js
-src/**/*.css
-!src/**/*.min.css
 
 # Environment files
 .env
@@ -87,3 +80,4 @@ src/**/*.css
 
 # Local Netlify folder
 .netlify 
+.vercel
